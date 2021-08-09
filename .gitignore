@@ -1,1 +1,9 @@
+# Python virtual environment
 env/
+
+# Certificates info
+.keylocs
+fullchain.pem
+privkey.pem
+
+
